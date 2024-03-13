@@ -1,6 +1,22 @@
 [
-  "https://testnet.dlc.link/attestor-1",
-  "https://testnet.dlc.link/attestor-2",
-  "https://testnet.dlc.link/attestor-3",
-  "http://103.164.81.14:8801"
+  {
+    "name": "attestor-1",
+    "domain": "https://testnet.dlc.link/attestor-1"
+  },
+  {
+    "name": "attestor-2",
+    "domain": "https://testnet.dlc.link/attestor-2"
+  },
+  {
+    "name": "attestor-3",
+    "domain": "https://testnet.dlc.link/attestor-3"
+  },
+  {
+    "name": "hashkey-1",
+    "domain": "http://103.164.81.14:8801"
+  },
+  {
+    "name": "dextrac-1",
+    "domain": "http://170.75.251.230:8801"
+  }
 ]
